@@ -12,7 +12,7 @@ I enjoy building applications, exploring automation and finding ways to improve 
 - Git
 - Jest & Vitest
 - Power BI
-- SQL
+- Basic SQL
 
 ## Featured Projects
 
